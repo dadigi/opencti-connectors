@@ -1,2 +1,3 @@
-pycti==5.12.15
-# requests
+python_dateutil
+requests
+quointelligence @ https://github.com/QuoIntelligence/api-client.git#egg=quointelligence
