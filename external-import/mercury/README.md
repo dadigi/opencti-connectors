@@ -1,3 +1,24 @@
+# mercury2opencti
+OpenCTI-connector for Mercury API (QuoIntelligence)
+
+An external-import collector for OpenCTI:
+
+https://github.com/OpenCTI-Platform/
+
+https://github.com/OpenCTI-Platform/connectors/blob/master/README.md
+
+https://docs.opencti.io/latest/development/connectors/
+
+
+
+Uses the API of the commercial TIP Mercury by QuoIntelligence GmbH:
+
+https://quointelligence.eu/home/mercury/
+
+https://github.com/QuoIntelligence/api-client/blob/master/README.md
+
+
+
 # External Ingestion Template Connector
 
 <!--
